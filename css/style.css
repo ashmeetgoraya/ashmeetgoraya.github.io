@@ -177,7 +177,8 @@ a:hover {
 
 .bigger {
   border-radius: 10px;
-  height: 500px;
+  height: 30em;
+  overflow: auto;
 }
 
 .title-left:before {
