@@ -175,6 +175,11 @@ a:hover {
   position: relative;
 }
 
+.bigger {
+  border-radius: 10px;
+  height: 500px;
+}
+
 .title-left:before {
   content: '';
   position: absolute;
